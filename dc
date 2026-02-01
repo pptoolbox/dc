@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/opt/dc/venv/bin/python3 /opt/dc/dc-light.py
+/opt/dc/venv/bin/python3 /opt/dc/dc-dark.py
