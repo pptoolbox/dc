@@ -6,11 +6,7 @@ Time is invaluable. But sometimes it passes before we even know. This will just 
 
 - **Full Year Calendar**: All 12 months displayed in a clean grid layout
 - **4K Resolution**: Generated at 3840×2160 for sharp, modern displays
-- **Smart Date Coloring**:
-  - Past dates: Gray
-  - Future dates: White
-  - Today: Highlighted in red with white text
-  - Outside current month: Darker gray
+- **Smart Date Coloring**: Highlighted current day along with grayed out past days
 - **Monospace Typography**: Clean, modern DM Mono font
 - **Automatic Date Detection**: Always highlights the current date
 
