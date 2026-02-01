@@ -26,13 +26,13 @@ Time is invaluable. But sometimes it passes before we even know. This will just 
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/pptoolbox/dc/main/install.sh)"
 ```
 
-The installation script sets up the necessary files and dependencies, and places the wallpaper in `/usr/local/share/wallpapers/dc.png`.
+The installation script sets up the necessary files and dependencies, and places the wallpaper in `/usr/local/share/wallpapers`.
 
 ## Usage
 
 After installation, you should find the wallpaper in your settings under wallpapers.
 
-If not detected automatically, you can also set your wallpaper from `/usr/local/share/wallpapers/dc.png`
+If not detected automatically, you can also set your wallpaper from `/usr/local/share/wallpapers`
 
 ## License
 
