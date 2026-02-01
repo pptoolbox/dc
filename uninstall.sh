@@ -27,7 +27,7 @@ fi
 
 # Remove /usr/local/share/wallpapers if empty
 if [ -d /usr/local/share/wallpapers ]; then
-	sudo rm -r /usr/local/share/wallpapers/dc-*.png || true
+	sudo rm -r /usr/local/share/wallpapers/dc-*.png
 	echo "Removed wallpapers installed by DC"
 fi
 
