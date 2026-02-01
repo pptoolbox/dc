@@ -25,9 +25,9 @@ else
 	echo "/opt/dc not found"
 fi
 
-# Remove /usr/local/wallpapers if empty
-if [ -d /usr/local/wallpapers ]; then
-	sudo rm -r /usr/local/wallpapers/dc-*.png || true
+# Remove /usr/local/share/wallpapers if empty
+if [ -d /usr/local/share/wallpapers ]; then
+	sudo rm -r /usr/local/share/wallpapers/dc-*.png || true
 	echo "Removed wallpapers installed by DC"
 fi
 
